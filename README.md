@@ -44,3 +44,4 @@ For the 8x8, the average time per move was reasonable for a depth of 2, but a de
 
 
 Collaborators: Kevin Walsh
+Pseudocode: Class Textbook
