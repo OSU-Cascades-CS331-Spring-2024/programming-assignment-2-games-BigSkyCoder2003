@@ -43,5 +43,5 @@ Game Results:
 For the 8x8, the average time per move was reasonable for a depth of 2, but a depth of 5 produced moves more in the 2 second range, which felt slow. Additionally, even at 5 depth, the ai was not able to beat me, which makes sense, as some intuitive Othello strategies are predictive enough that moderate depths cant beat them(such as corner/edge biased play). 
 
 
-Collaborators: Kevin Walsh
+Collaborators: Kevin Walsh, Brandon Nelson
 Pseudocode: Class Textbook
